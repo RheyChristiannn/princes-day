@@ -1,0 +1,10 @@
+IBUTANG ANG IMO MP3 FILE DIRI NGA FOLDER.
+
+Filename: birthday.mp3
+Full location: princes-20/audio/birthday.mp3
+
+Use an actual MP3 audio file. Do not just rename another format to .mp3.
+The music plays when the birthday letter opens, with a Play/Pause button.
+Closing the letter pauses the music. Reopening resumes playback.
+After adding the file, refresh the website and open the letter to try it.
+Include the audio folder when you publish the website.
